@@ -125,6 +125,12 @@ body {
     margin-bottom: 1rem;
 }
 
+.insurance-icon {
+    font-size: 3rem;
+    color: var(--primary-orange);
+    margin-bottom: 1rem;
+}
+
 /* About Us Section */
 .about-us {
     padding: 5rem 5%;
